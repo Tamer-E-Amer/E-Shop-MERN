@@ -1,5 +1,12 @@
-/* general rules */
+/* color variables */
+:root {
+  --blue-black: #1a1a40;
+  --blue: #270082;
+  --magenta: #7a0bc0;
+  --rose: #fa58b6;
+}
 
+/* general rules */
 * {
   padding: 0;
   margin: 0;

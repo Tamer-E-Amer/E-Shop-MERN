@@ -1,0 +1,9 @@
+.app__offer {
+  background-color: var(--blue-black);
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-size: 1rem;
+}
